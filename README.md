@@ -19,18 +19,6 @@ This project is a React-based application designed to handle formula inputs, aut
 - **TailwindCSS**: For styling the application.
 - **TypeScript**: For type safety and better developer experience.
 
-## Project Structure
-
-src/
-├── components/
-│ └── FormulaInput.tsx
-├── hooks/
-│ ├── fetchAutocompleteSuggestions.ts
-│ └── useFormulaInput.ts
-├── App.tsx
-├── index.tsx
-└── ...
-
 ## Getting Started
 
 ### Prerequisites
